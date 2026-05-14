@@ -45,10 +45,10 @@ employee-management-system-vba/
 ## Screenshots
 
 ### UserForm 
-![UserForm](screenshots/userform_filled.png)
+![Userform_filled](Screenshots/Userform_filled.png)
 
 ### Employee Records Stored in Excel
-![Output](screenshots/output.png)
+![Output](Screenshots/Output.png)
 
 ## How It Works
 
