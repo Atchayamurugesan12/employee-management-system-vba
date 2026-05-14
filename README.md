@@ -33,12 +33,12 @@ employee-management-system-vba/
 ├── Employee_Management_System.xlsm
 │
 ├── code/
-│   ├── EmployeeForm.frm
-│   └── EmployeeForm.frx
+│   ├── UserForm.frm
+│   └── UserForm.frx
 │
 ├── screenshots/
-│   ├── userform-filled.png
-│   └── output-table.png
+│   ├── userform_filled.png
+│   └── output.png
 │
 └── README.md
 ```
